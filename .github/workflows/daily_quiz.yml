@@ -1,0 +1,40 @@
+name: Daily Question Sync
+
+on:
+  schedule:
+    # Runs at 03:30 UTC (09:00 AM IST) every morning
+    - cron: '30 3 * * *'
+    # Optional evening sync at 11:30 UTC (05:00 PM IST)
+    - cron: '30 11 * * *'
+  workflow_dispatch: # Allows manual 1-click trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-daily-questions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch RSS and Generate Daily Quiz Pages
+        run: node scripts/generate_daily.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit. Everything is up to date."
+          else
+            git commit -m "Auto-update: Daily Hindi GK Questions [$(date +'%Y-%m-%d')]"
+            git push
+          fi
