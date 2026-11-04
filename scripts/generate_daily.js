@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const FEED_URL = 'https://mocktest.gkget.com/api/pinterest-feed';
+const FEED_URL = 'https://mocktest.gkget.com/api/social-feed';
 const SITE_URL = 'https://mocktest.gkget.com';
 
 function unescapeXml(str = '') {
