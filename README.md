@@ -9,29 +9,30 @@ Welcome to the official daily practice repository for **[GKGet (mocktest.gkget.c
 ### 🎯 Quick Links:
 - 🌐 **[GKGet Online Mock Tests Homepage](https://mocktest.gkget.com)**
 - 📚 **[SSC, Railway & UPSC Solved Questions](https://mocktest.gkget.com)**
-- 📝 **[Today's Full 20 Quiz Page (with Question Cards)](daily/2026-11-16.md)**
+- 📝 **[Today's Full 20 Quiz Page (with Question Cards)](daily/2026-11-17.md)**
 
 ---
 
-## 📅 आज के महत्वपूर्ण प्रश्न (16 November 2026)
+## 📅 आज के महत्वपूर्ण प्रश्न (17 November 2026)
 
-1. [रिक्त स्थान को भरने के लिए सबसे उपयुक्त समनाम (homonym) का चयन करें। अफ़ज़ल ने पियानो पर अपने स्केल (scales) का अभ्यास किया। यहाँ 'scales' का अर्थ ___________________ है।](https://mocktest.gkget.com/question-answer/रिक्त-स्थान-को-भरने-के-लिए-सबसे-उपयुक्त-समनाम-homonym-का-चयन-करें-अफ़ज़ल-ने-पियानो-पर-अपने-स्केल-sca--a7de99673932445b9a84f0eb38976b20?lang=hi)
-2. [वस्तु X और Y के क्रय मूल्य का अनुपात 2 : 3 है। एक व्यक्ति वस्तु X को बेचकर 16% का लाभ कमाता है और वस्तु Y को बेचकर 19% की हानि उठाता है। पूरे लेनदेन में उसका लाभ/हानि प्रतिशत क्या है?](https://mocktest.gkget.com/question-answer/वस्तु-x-और-y-के-क्रय-मूल्य-का-अनुपात-2-3-है-एक-व्यक्ति-वस्तु-x-को-बेचकर-16-का-लाभ-कमाता-है-और-वस्तु--ef430574463f46bbbbb0aee16f9be26b?lang=hi)
-3. [एक संख्या को जब उसके भाजक से विभाजित किया जाता है, तो शेषफल 22 बचता है। जब मूल संख्या के दोगुने को उसी भाजक से विभाजित किया जाता है, तो शेषफल 8 बचता है। दिए गए विकल्पों में से भाजक का अधिकतम मान क्या है?](https://mocktest.gkget.com/question-answer/एक-संख्या-को-जब-उसके-भाजक-से-विभाजित-किया-जाता-है-तो-शेषफल-22-बचता-है-जब-मूल-संख्या-के-दोगुने-को-उसी--3f88312bc807473faa11d4dcdba4d7af?lang=hi)
-4. [एक वस्तु के अंकित मूल्य पर 40% की छूट देने के बाद, इसे ₹65871 में बेचा जाता है। इसका अंकित मूल्य (₹ में) ज्ञात कीजिए।](https://mocktest.gkget.com/question-answer/एक-वस्तु-के-अंकित-मूल्य-पर-40-की-छूट-देने-के-बाद-इसे-65871-में-बेचा-जाता-है-इसका-अंकित-मूल्य-में-ज्ञ--76d0bf6d86af4e15a0d933b2aeda697a?lang=hi)
-5. [132 किमी/घंटा की गति से यात्रा कर रही एक 315 मीटर लंबी ट्रेन एक समानांतर ट्रैक पर खड़ी दूसरी 345 मीटर लंबी ट्रेन को पार करने में कितने सेकंड का समय लेगी?](https://mocktest.gkget.com/question-answer/132-किमी-घंटा-की-गति-से-यात्रा-कर-रही-एक-315-मीटर-लंबी-ट्रेन-एक-समानांतर-ट्रैक-पर-खड़ी-दूसरी-345-मीट--ed0480b044594f9f9ed868373f17103d?lang=hi)
-6. [दिए गए वाक्य में रेखांकित शब्द का सबसे उपयुक्त विलोम शब्द (ANTONYM) चुनिए। The Sun is a star similar to the other stars in the sky, but it is much closer to the Earth.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-में-रेखांकित-शब्द-का-सबसे-उपयुक्त-विलोम-शब्द-antonym-चुनिए-the-sun-is-a-star-similar-to--69fb8ed05bcd4d94b8f89565ca3c3411?lang=hi)
-7. [₹3000 की राशि पर 10% प्रति वर्ष की दर से 3 वर्ष के लिए साधारण ब्याज (₹ में) ज्ञात कीजिए।](https://mocktest.gkget.com/question-answer/3000-की-राशि-पर-10-प्रति-वर्ष-की-दर-से-3-वर्ष-के-लिए-साधारण-ब्याज-में-ज्ञात-कीजिए--152a591ebae2491e97ec1ddc70ce5eb9?lang=hi)
-8. [निम्नलिखित में से किस भाषा को भारत में शास्त्रीय भाषा के रूप में मान्यता प्राप्त करने वाली पहली भाषा का दर्जा मिला था?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-किस-भाषा-को-भारत-में-शास्त्रीय-भाषा-के-रूप-में-मान्यता-प्राप्त-करने-वाली-पहली-भाषा--1b2da463c2cd4da48fb3159783b0093d?lang=hi)
-9. [₹6405 को A, B, C और D के बीच इस प्रकार विभाजित किया जाता है कि A और B, B और C, तथा C और D के हिस्सों का अनुपात क्रमशः 2 : 3, 4 : 5, और 6 : 7 है। A का हिस्सा (₹ में) ज्ञात कीजिए।](https://mocktest.gkget.com/question-answer/6405-को-a-b-c-और-d-के-बीच-इस-प्रकार-विभाजित-किया-जाता-है-कि-a-और-b-b-और-c-तथा-c-और-d-के-हिस्सों-का-अ--95c1511e30854436a973fbacd77e9f47?lang=hi)
-10. [कोई धनराशि चक्रवृद्धि ब्याज की एक निश्चित दर पर 19 वर्षों में स्वयं की तीन गुनी हो जाती है, जहाँ ब्याज वार्षिक रूप से संयोजित होता है। कितने वर्षों में यह धनराशि स्वयं की 81 गुनी हो जाएगी?](https://mocktest.gkget.com/question-answer/कोई-धनराशि-चक्रवृद्धि-ब्याज-की-एक-निश्चित-दर-पर-19-वर्षों-में-स्वयं-की-तीन-गुनी-हो-जाती-है-जहाँ-ब्या--57f289238a2341dcbda5371a6eed3573?lang=hi)
+1. [रिक्त स्थान को भरने के लिए सबसे उपयुक्त विकल्प का चयन करें। All the players from this athletic club participated in the tournament and _______ one of them got a medal.](https://mocktest.gkget.com/question-answer/रिक्त-स्थान-को-भरने-के-लिए-सबसे-उपयुक्त-विकल्प-का-चयन-करें-all-the-players-from-this-athletic-club-p--7479ea32235a4b659b05e4297e996731?lang=hi)
+2. [दिए गए वाक्य में रेखांकित खंड को प्रतिस्थापित करने वाले सबसे उपयुक्त विकल्प का चयन करें। As there was no one to look thorough the orphan, he had to take refuge in the orphanage.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-में-रेखांकित-खंड-को-प्रतिस्थापित-करने-वाले-सबसे-उपयुक्त-विकल्प-का-चयन-करें-as-there-was--5338692b105b430884fece3342e04d45?lang=hi)
+3. [दिए गए वाक्य को चार खंडों में विभाजित किया गया है। उस विकल्प का चयन करें जिसमें व्याकरण संबंधी त्रुटि है। The sun rises / in an east / and sets / in the west.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-को-चार-खंडों-में-विभाजित-किया-गया-है-उस-विकल्प-का-चयन-करें-जिसमें-व्याकरण-संबंधी-त्रुटि--d726c16934464f77ad20fdf33fd4dff7?lang=hi)
+4. [रिक्त स्थान को भरने के लिए सबसे उपयुक्त विकल्प का चयन करें। प्रधानाचार्य ने छात्रों को जल्द से जल्द अद्यतित कार्यक्रम के बारे में ________ करने का वादा किया।](https://mocktest.gkget.com/question-answer/रिक्त-स्थान-को-भरने-के-लिए-सबसे-उपयुक्त-विकल्प-का-चयन-करें-प्रधानाचार्य-ने-छात्रों-को-जल्द-से-जल्द-अ--55d7aaf57bce46c8bcd3536c052a963b?lang=hi)
+5. [दिए गए वाक्य में रेखांकित शब्द का सबसे उपयुक्त विलोम (ANTONYM) शब्द चुनें। His industrious attitude was the reason for his promotion.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-में-रेखांकित-शब्द-का-सबसे-उपयुक्त-विलोम-antonym-शब्द-चुनें-his-industrious-attitude-was--b06ebe99becb46489b5269191183c47d?lang=hi)
+6. [निम्नलिखित वाक्य को चार खंडों में विभाजित किया गया है। उस खंड की पहचान करें जिसमें व्याकरण संबंधी त्रुटि है। How long are you working / for your current employer / and why don't you / look for better opportunities?](https://mocktest.gkget.com/question-answer/निम्नलिखित-वाक्य-को-चार-खंडों-में-विभाजित-किया-गया-है-उस-खंड-की-पहचान-करें-जिसमें-व्याकरण-संबंधी-त्र--a919d4654bc14f058a9cede8ded620c9?lang=hi)
+7. [रिक्त स्थानों को भरने के लिए शब्दों के सबसे उपयुक्त युग्म का चयन करें। Shyam has reserved a ________ in the train for his wife as she will be giving ________ to his child soon.](https://mocktest.gkget.com/question-answer/रिक्त-स्थानों-को-भरने-के-लिए-शब्दों-के-सबसे-उपयुक्त-युग्म-का-चयन-करें-shyam-has-reserved-a-in-the-tr--01159d8fbfa040cbb15734db119a4c56?lang=hi)
+8. [दिए गए वाक्य को तीन खंडों में विभाजित किया गया है। उस विकल्प का चयन करें जिसमें व्याकरण संबंधी त्रुटि है। यदि कोई त्रुटि नहीं है, तो 'No error' चुनें। The judges eliminated the / classical singer, as she dropped of / in the middle of the competition.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-को-तीन-खंडों-में-विभाजित-किया-गया-है-उस-विकल्प-का-चयन-करें-जिसमें-व्याकरण-संबंधी-त्रुटि--edf289b6a9724287994a43b42d6aaf01?lang=hi)
+9. [दिए गए वाक्य में रेखांकित शब्द को प्रतिस्थापित करने वाले सबसे उपयुक्त विकल्प का चयन करें। Loud noise effects our ability to concentrate.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-में-रेखांकित-शब्द-को-प्रतिस्थापित-करने-वाले-सबसे-उपयुक्त-विकल्प-का-चयन-करें-loud-noise--25594d5f63454b19b08dbff4bdd23b0c?lang=hi)
+10. [दिए गए वाक्य में रेखांकित खंड को प्रतिस्थापित करने वाले सबसे उपयुक्त मुहावरे का चयन करें। The player was declared fit and in excellent health to play the final matches.](https://mocktest.gkget.com/question-answer/दिए-गए-वाक्य-में-रेखांकित-खंड-को-प्रतिस्थापित-करने-वाले-सबसे-उपयुक्त-मुहावरे-का-चयन-करें-the-player--a309851dcc6240529e298c0dfca8ce5a?lang=hi)
 
-👉 **[सभी 20 प्रश्न और व्याख्या कार्ड देखने के लिए यहाँ क्लिक करें »](daily/2026-11-16.md)**
+👉 **[सभी 20 प्रश्न और व्याख्या कार्ड देखने के लिए यहाँ क्लिक करें »](daily/2026-11-17.md)**
 
 ---
 
 ## 🗂️ पिछले दिनों की प्रश्नोत्तरी (Daily Archive)
 
+- 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-17](daily/2026-11-17.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-16](daily/2026-11-16.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-15](daily/2026-11-15.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-14](daily/2026-11-14.md)** (20 महत्वपूर्ण MCQs)
