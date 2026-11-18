@@ -15,16 +15,16 @@ Welcome to the official daily practice repository for **[GKGet (mocktest.gkget.c
 
 ## 📅 आज के महत्वपूर्ण प्रश्न (18 November 2026)
 
-1. [निम्नलिखित में से किसे बृहस्पतीय/बाह्य ग्रह (Jovian Planet) कहा जाता है?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-किसे-बृहस्पतीय-बाह्य-ग्रह-jovian-planet-कहा-जाता-है--d720ae1671aa443e92a09d8b2ac548ff?lang=hi)
-2. [सौरमंडल का एकमात्र ज्ञात ग्रह कौन-सा है जिस पर जीवन मौजूद है?](https://mocktest.gkget.com/question-answer/सौरमंडल-का-एकमात्र-ज्ञात-ग्रह-कौन-सा-है-जिस-पर-जीवन-मौजूद-है--82fddb15ccc545418a5a47de74abdd42?lang=hi)
-3. [सूर्य के धब्बों (Sunspots) का एक पूरा चक्र (चढ़ता और उतरता क्रम मिलाकर) कितने वर्षों का होता है?](https://mocktest.gkget.com/question-answer/सूर्य-के-धब्बों-sunspots-का-एक-पूरा-चक्र-चढ़ता-और-उतरता-क्रम-मिलाकर-कितने-वर्षों-का-होता-है--a93f1f51d7564f9687d1cafb60f55273?lang=hi)
-4. [दुग्धमेखला (Milky Way) मंदाकिनी के केंद्र के चारों ओर एक चक्कर लगाने में सूर्य को कितना समय लगता है (ब्रह्मांड वर्ष)?](https://mocktest.gkget.com/question-answer/दुग्धमेखला-milky-way-मंदाकिनी-के-केंद्र-के-चारों-ओर-एक-चक्कर-लगाने-में-सूर्य-को-कितना-समय-लगता-है-ब्--bc57cb06461d4aee85dfea0d86b73bb5?lang=hi)
-5. [निम्नलिखित में से कौन सा एक पार्थिव/आंतरिक ग्रह (Terrestrial Planet) है?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-कौन-सा-एक-पार्थिव-आंतरिक-ग्रह-terrestrial-planet-है--46816807abe647b1be5ec4e692ffaa7d?lang=hi)
-6. [2006 में प्लूटो के पुनर्वर्गीकरण के बाद, हमारे सौरमंडल में ग्रहों की कुल संख्या कितनी रह गई है?](https://mocktest.gkget.com/question-answer/2006-में-प्लूटो-के-पुनर्वर्गीकरण-के-बाद-हमारे-सौरमंडल-में-ग्रहों-की-कुल-संख्या-कितनी-रह-गई-है--85e414e7217243d497b9db4349ce937b?lang=hi)
-7. [सूर्य किरीट (Corona) मुख्य रूप से कौन सी उच्च-ऊर्जा किरणें उत्सर्जित करता है?](https://mocktest.gkget.com/question-answer/सूर्य-किरीट-corona-मुख्य-रूप-से-कौन-सी-उच्च-ऊर्जा-किरणें-उत्सर्जित-करता-है--48f937d6c79c4f80bf8510f8177e253e?lang=hi)
-8. ['शांति का सागर' (Sea of Tranquility) नामक मैदान कहाँ स्थित है?](https://mocktest.gkget.com/question-answer/शांति-का-सागर-sea-of-tranquility-नामक-मैदान-कहाँ-स्थित-है--332dd779bb1640caa84c75ce89c97855?lang=hi)
-9. [वरुण (Neptune) के चारों ओर मुख्य रूप से किस गैस का घना बादल छाया हुआ है?](https://mocktest.gkget.com/question-answer/वरुण-neptune-के-चारों-ओर-मुख्य-रूप-से-किस-गैस-का-घना-बादल-छाया-हुआ-है--f47f4d952da2405593e0498225c47c83?lang=hi)
-10. [चंद्रमा के दक्षिणी ध्रुव पर स्थित उसका सबसे ऊँचा पर्वत कौन-सा है?](https://mocktest.gkget.com/question-answer/चंद्रमा-के-दक्षिणी-ध्रुव-पर-स्थित-उसका-सबसे-ऊँचा-पर्वत-कौन-सा-है--bd814830165f4cc88383e158b3a3c398?lang=hi)
+1. [Which of the following statements is correct regarding the State Election Commissioner?](https://mocktest.gkget.com/question-answer/which-of-the-following-statements-is-correct-regarding-the-state-election-commissioner--fe02be7d8af14214b060f3c92299c3dc?lang=hi)
+2. [Which of the following is a compulsory function of Panchayats?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-a-compulsory-function-of-panchayats--b6f63aa0885a4f8cb2ebfc09e2696188?lang=hi)
+3. [The responsibility for conducting census in a village rests with:](https://mocktest.gkget.com/question-answer/the-responsibility-for-conducting-census-in-a-village-rests-with--248c45635cd849cebd4a68727ebdb3d4?lang=hi)
+4. [Which article of the Constitution specifies the powers, authority and responsibilities of Panchayats?](https://mocktest.gkget.com/question-answer/which-article-of-the-constitution-specifies-the-powers-authority-and-responsibilities-of-panchayats--913750ff58a347c49a7d0619552a180d?lang=hi)
+5. [What is the full form of MPLADS, which can be relevant to local area development?](https://mocktest.gkget.com/question-answer/what-is-the-full-form-of-mplads-which-can-be-relevant-to-local-area-development--3a6c2b2791274925bce854f7fd0deba1?lang=hi)
+6. [What is the name of the lowest level of urban local body?](https://mocktest.gkget.com/question-answer/what-is-the-name-of-the-lowest-level-of-urban-local-body--0bd8fe4f5c9e4d2783e2106b5ff4ad73?lang=hi)
+7. [Which of the following is NOT a function devolved to the municipalities under the 74th Amendment Act?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-not-a-function-devolved-to-the-municipalities-under-the-74th-amendment-act--79223ccba5864ae18a48e175d1cbe43a?lang=hi)
+8. [What is the full form of PRI with respect to local self government?](https://mocktest.gkget.com/question-answer/what-is-the-full-form-of-pri-with-respect-to-local-self-government--7b9186690cd544a9bda84edf4453eb80?lang=hi)
+9. [निम्नलिखित में से कौन सा विषय 73वें संविधान संशोधन के बाद पंचायतों को हस्तांतरित नहीं किया गया था?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-कौन-सा-विषय-73वें-संविधान-संशोधन-के-बाद-पंचायतों-को-हस्तांतरित-नहीं-किया-गया-था--c8683e08f7ad4774a785bfd1a139e271?lang=hi)
+10. [Which of the following is a function of the Municipalities as per the 12th Schedule?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-a-function-of-the-municipalities-as-per-the-12th-schedule--47b01f4e97c3490c9d02beab739b3b37?lang=hi)
 
 👉 **[सभी 20 प्रश्न और व्याख्या कार्ड देखने के लिए यहाँ क्लिक करें »](daily/2026-11-18.md)**
 
