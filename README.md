@@ -9,29 +9,30 @@ Welcome to the official daily practice repository for **[GKGet (mocktest.gkget.c
 ### 🎯 Quick Links:
 - 🌐 **[GKGet Online Mock Tests Homepage](https://mocktest.gkget.com)**
 - 📚 **[SSC, Railway & UPSC Solved Questions](https://mocktest.gkget.com)**
-- 📝 **[Today's Full 20 Quiz Page (with Question Cards)](daily/2026-11-18.md)**
+- 📝 **[Today's Full 20 Quiz Page (with Question Cards)](daily/2026-11-19.md)**
 
 ---
 
-## 📅 आज के महत्वपूर्ण प्रश्न (18 November 2026)
+## 📅 आज के महत्वपूर्ण प्रश्न (19 November 2026)
 
-1. [Which of the following statements is correct regarding the State Election Commissioner?](https://mocktest.gkget.com/question-answer/which-of-the-following-statements-is-correct-regarding-the-state-election-commissioner--fe02be7d8af14214b060f3c92299c3dc?lang=hi)
-2. [Which of the following is a compulsory function of Panchayats?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-a-compulsory-function-of-panchayats--b6f63aa0885a4f8cb2ebfc09e2696188?lang=hi)
-3. [The responsibility for conducting census in a village rests with:](https://mocktest.gkget.com/question-answer/the-responsibility-for-conducting-census-in-a-village-rests-with--248c45635cd849cebd4a68727ebdb3d4?lang=hi)
-4. [Which article of the Constitution specifies the powers, authority and responsibilities of Panchayats?](https://mocktest.gkget.com/question-answer/which-article-of-the-constitution-specifies-the-powers-authority-and-responsibilities-of-panchayats--913750ff58a347c49a7d0619552a180d?lang=hi)
-5. [What is the full form of MPLADS, which can be relevant to local area development?](https://mocktest.gkget.com/question-answer/what-is-the-full-form-of-mplads-which-can-be-relevant-to-local-area-development--3a6c2b2791274925bce854f7fd0deba1?lang=hi)
-6. [What is the name of the lowest level of urban local body?](https://mocktest.gkget.com/question-answer/what-is-the-name-of-the-lowest-level-of-urban-local-body--0bd8fe4f5c9e4d2783e2106b5ff4ad73?lang=hi)
-7. [Which of the following is NOT a function devolved to the municipalities under the 74th Amendment Act?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-not-a-function-devolved-to-the-municipalities-under-the-74th-amendment-act--79223ccba5864ae18a48e175d1cbe43a?lang=hi)
-8. [What is the full form of PRI with respect to local self government?](https://mocktest.gkget.com/question-answer/what-is-the-full-form-of-pri-with-respect-to-local-self-government--7b9186690cd544a9bda84edf4453eb80?lang=hi)
-9. [निम्नलिखित में से कौन सा विषय 73वें संविधान संशोधन के बाद पंचायतों को हस्तांतरित नहीं किया गया था?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-कौन-सा-विषय-73वें-संविधान-संशोधन-के-बाद-पंचायतों-को-हस्तांतरित-नहीं-किया-गया-था--c8683e08f7ad4774a785bfd1a139e271?lang=hi)
-10. [Which of the following is a function of the Municipalities as per the 12th Schedule?](https://mocktest.gkget.com/question-answer/which-of-the-following-is-a-function-of-the-municipalities-as-per-the-12th-schedule--47b01f4e97c3490c9d02beab739b3b37?lang=hi)
+1. [मानव तस्करी और जबरन श्रम (दासता) का निषेध भारत के संविधान के किस अनुच्छेद में परिकल्पित है?](https://mocktest.gkget.com/question-answer/मानव-तस्करी-और-जबरन-श्रम-दासता-का-निषेध-भारत-के-संविधान-के-किस-अनुच्छेद-में-परिकल्पित-है--daff747fb7aa4469863502c8c34236dd?lang=hi)
+2. [पृथ्वी की सतह पर स्थितियों से संबंधित डेटा को कैप्चर करने, संग्रहीत करने, जाँचने और प्रदर्शित करने के लिए डिज़ाइन की गई कंप्यूटर प्रणाली को ________ कहा जाता है।](https://mocktest.gkget.com/question-answer/पृथ्वी-की-सतह-पर-स्थितियों-से-संबंधित-डेटा-को-कैप्चर-करने-संग्रहीत-करने-जाँचने-और-प्रदर्शित-करने-के--77f32101e54245d2a21f11b9e71047b9?lang=hi)
+3. [ग्यारवाँ विश्व हिंदी सम्मेलन कहाँ संपन्न हुआ था?](https://mocktest.gkget.com/question-answer/ग्यारवाँ-विश्व-हिंदी-सम्मेलन-कहाँ-संपन्न-हुआ-था--fcc9d84cfd244a7ebe83cd573b94ac77?lang=hi)
+4. [भूमि अधिग्रहण, पुनर्वास और पुनर्व्यवस्थापन में उचित प्रतिकर और पारदर्शिता का अधिकार अधिनियम, 2013 के तहत, यदि किस धारा के तहत तात्कालिकता के प्रावधानों का आह्वान करके भूमि का अधिग्रहण करने का प्रस्ताव है, तो उचित सरकार सामाजिक प्रभाव निर्धारण (SIA) से छूट दे सकती है?](https://mocktest.gkget.com/question-answer/भूमि-अधिग्रहण-पुनर्वास-और-पुनर्व्यवस्थापन-में-उचित-प्रतिकर-और-पारदर्शिता-का-अधिकार-अधिनियम-2013-के-त--3fa7f0293f854407addf137a00984e4d?lang=hi)
+5. [बुंदेलखंड विश्वविद्यालय उत्तर प्रदेश के निम्नलिखित में से किस जिले में स्थित है?](https://mocktest.gkget.com/question-answer/बुंदेलखंड-विश्वविद्यालय-उत्तर-प्रदेश-के-निम्नलिखित-में-से-किस-जिले-में-स्थित-है--ad69aceb9ea8420784ad93584516fa07?lang=hi)
+6. [भारत में निम्नलिखित में से कौन सा प्राधिकरण डंपिंग रोधी (एंटी-डंपिंग) जांच संचालित करता है?](https://mocktest.gkget.com/question-answer/भारत-में-निम्नलिखित-में-से-कौन-सा-प्राधिकरण-डंपिंग-रोधी-एंटी-डंपिंग-जांच-संचालित-करता-है--6a58d437ed3344fd91adcca62bca66f3?lang=hi)
+7. [राष्ट्रीय सुरक्षा अधिनियम, 1980 की धारा 9 के तहत गठित सलाहकार बोर्ड में कितने सदस्य होते हैं?](https://mocktest.gkget.com/question-answer/राष्ट्रीय-सुरक्षा-अधिनियम-1980-की-धारा-9-के-तहत-गठित-सलाहकार-बोर्ड-में-कितने-सदस्य-होते-हैं--d19f638590884fdda1fd715257701357?lang=hi)
+8. [निम्नलिखित में से किस मामले में राज्यसभा को लोकसभा के समान शक्ति और दर्जा प्राप्त है?](https://mocktest.gkget.com/question-answer/निम्नलिखित-में-से-किस-मामले-में-राज्यसभा-को-लोकसभा-के-समान-शक्ति-और-दर्जा-प्राप्त-है--c0e6ddb214604707aba487ff3cec646b?lang=hi)
+9. [केंद्रीय सूचना आयोग (CIC) प्रशासनिक रूप से निम्नलिखित में से किस केंद्रीय मंत्रालय के अंतर्गत आता है?](https://mocktest.gkget.com/question-answer/केंद्रीय-सूचना-आयोग-cic-प्रशासनिक-रूप-से-निम्नलिखित-में-से-किस-केंद्रीय-मंत्रालय-के-अंतर्गत-आता-है--dc1f3ad079f947339b8e53b9fb3a47da?lang=hi)
+10. [वैश्विक जनसांख्यिकीय आंकड़ों के अनुसार, निम्नलिखित में से कौन सा दक्षिण एशियाई देश लिंगानुपात में महिलाओं की संख्या पुरुषों से काफी अधिक होने के लिए उल्लेखनीय है?](https://mocktest.gkget.com/question-answer/वैश्विक-जनसांख्यिकीय-आंकड़ों-के-अनुसार-निम्नलिखित-में-से-कौन-सा-दक्षिण-एशियाई-देश-लिंगानुपात-में-महि--352077368af44e81b9d678c4951d6a6c?lang=hi)
 
-👉 **[सभी 20 प्रश्न और व्याख्या कार्ड देखने के लिए यहाँ क्लिक करें »](daily/2026-11-18.md)**
+👉 **[सभी 20 प्रश्न और व्याख्या कार्ड देखने के लिए यहाँ क्लिक करें »](daily/2026-11-19.md)**
 
 ---
 
 ## 🗂️ पिछले दिनों की प्रश्नोत्तरी (Daily Archive)
 
+- 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-19](daily/2026-11-19.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-18](daily/2026-11-18.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-17](daily/2026-11-17.md)** (20 महत्वपूर्ण MCQs)
 - 📅 **[दैनिक प्रश्नोत्तरी - 2026-11-16](daily/2026-11-16.md)** (20 महत्वपूर्ण MCQs)
